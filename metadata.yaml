@@ -1,0 +1,37 @@
+_repo: The-Works-of-John-MarstonVolume-2_46311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46311-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marston, John
+    deathdate: 1634
+    gutenberg_agent_id: '43152'
+    url: http://www.gutenberg.org/2009/agents/43152
+  editor:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Butler, A. H.
+    - Bullen, Arthur Henry
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+description: ''
+gutenberg_issued: '2014-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+tableOfContents: The Dutch courtezan -- The fawn -- The wonder of women; or, The tragedy
+  of Sophonisba -- What you will.
+title: The Works of John Marston. Volume 2
+url: http://www.gutenberg.org/ebooks/46311
